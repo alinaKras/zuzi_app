@@ -1,0 +1,12 @@
+  .item{
+    color: #b34709;
+  }
+
+  .topImg{
+    border-bottom: 10px groove #900012;
+    border-radius: 10px;
+  }
+
+  .descriptionBlock{
+    padding: 10px;
+  }
